@@ -530,7 +530,7 @@ h3 > .fa {
 /* ---------------------------------------------- */
 
 #intro {
-	padding: 260px 0 160px 0;
+	padding: 156px 0 96px 0;
 	text-align: center;
 	color: #FFF;
 	background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../../assets/images/programming_background_1.jpg");
@@ -545,7 +545,7 @@ h3 > .fa {
 }
 
 .hello {
-	margin: 0 0 100px;
+	margin: 0 0 60px;
 }
 
 /* ---------------------------------------------- /*
